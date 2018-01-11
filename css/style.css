@@ -51,17 +51,29 @@ nav .nav li a:hover {
   border: 3px solid;
   display: none;
 }
+.cont .titleStyle {
+  text-align: center;
+  color: black;
+  position: absolute;
+  margin: auto;
+  width: 100%;
+}
 .cont h1,
 .cont h3 {
   text-align: center;
   color: black;
-  font-size: 10em;
   position: absolute;
   margin: auto;
   width: 100%;
+  font-size: 7.5em;
   top: 52%;
 }
 .cont h3 {
+  text-align: center;
+  color: black;
+  position: absolute;
+  margin: auto;
+  width: 100%;
   top: 67%;
   font-size: 5em;
 }
@@ -84,6 +96,9 @@ footer {
 }
 footer a {
   color: white;
+}
+footer .row {
+  padding: 10px 0px 10px 0px;
 }
 footer .row .social-data {
   text-align: center;
