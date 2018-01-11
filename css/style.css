@@ -49,12 +49,12 @@ nav .nav li a:hover {
 .cont hr {
   border-color: black;
   border: 3px solid;
+  display: none;
 }
 .cont h1,
 .cont h3 {
   text-align: center;
   color: black;
-  text-shadow: 1px 1px 5px white;
   font-size: 10em;
   position: absolute;
   margin: auto;
