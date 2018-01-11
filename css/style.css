@@ -38,6 +38,9 @@ nav .navbar-header .navbar-brand {
   display: block;
   text-indent: -9999px;
 }
+nav .nav li a:hover {
+  color: black!important;
+}
 .cont {
   height: 10%;
   width: 100%;
